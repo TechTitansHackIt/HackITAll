@@ -1688,3 +1688,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.04-12.43.04:871][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2025.04.04-12.43.04:872][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2025.04.04-12.43.04:881][527]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.04.04-12.44.46:489][  1]LogAssetRegistry: Error: Package C:/Users/Teodor-Daniel/Desktop/HackITAll/Content/StarterContent/Materials/M_AssetPlatform.uasset has malformed tag
+[2025.04.04-12.44.46:489][  1]LogAssetRegistry: Error: Package C:/Users/Teodor-Daniel/Desktop/HackITAll/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset has malformed tag
+[2025.04.04-12.44.48:822][  8]LogAssetRegistry: Error: Package C:/Users/Teodor-Daniel/Desktop/HackITAll/Content/Stylized_Egypt/Maps/Stylized_Egypt_Demo.umap has malformed tag
